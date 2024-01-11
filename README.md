@@ -15,8 +15,8 @@ In the digital era, misinformation and biased content pose significant challenge
 - **Rewrite**: Customize content based on educational levels.
 - **Note Cards**: Efficient organization of valuable information.
 
-- ![Screenshot from 2024-01-11 20-09-34](https://github.com/sumionochi/GYAN/assets/89721628/3e71d4af-b235-4f69-9d55-720a7b3d96ac)
-- 
+![Screenshot from 2024-01-11 20-09-34](https://github.com/sumionochi/GYAN/assets/89721628/3e71d4af-b235-4f69-9d55-720a7b3d96ac)
+
 ![Screenshot from 2024-01-11 20-09-23](https://github.com/sumionochi/GYAN/assets/89721628/8b3de3b5-a258-4965-b621-ea73fc02311a)
 
 ![Screenshot from 2024-01-11 20-09-14](https://github.com/sumionochi/GYAN/assets/89721628/581dc95b-7a09-40b6-adc4-b96cf9e75653)
@@ -56,7 +56,7 @@ The web extension aims to empower users, streamline content curation, and priori
 - Educational Efficiency: Streamline content curation, facilitate personalized learning
 - Privacy Assurance: Store data locally, increase trust
 
-- ![Screenshot from 2024-01-11 20-08-54](https://github.com/sumionochi/GYAN/assets/89721628/513c1e3c-e6ee-4474-a162-d89336a02ee4)
+![Screenshot from 2024-01-11 20-08-54](https://github.com/sumionochi/GYAN/assets/89721628/513c1e3c-e6ee-4474-a162-d89336a02ee4)
 
 ![Screenshot from 2024-01-11 20-08-46](https://github.com/sumionochi/GYAN/assets/89721628/6289ccf9-d8e4-46bf-8b6b-dc87d581a7b1)
 
